@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">XYZ Reader</string>
+    <string name="roboto_regular" translatable="false">fonts/Roboto-Regular.ttf</string>
+    <string name="roboto_medium" translatable="false">fonts/Roboto-Medium.ttf</string>
+    <string name="share_option">Select share option</string>
+    <string name="image_desc">Displays the image of the specific bacon</string>
+    <string name="fab_desc">A button to share the article with others</string>
+</resources>
